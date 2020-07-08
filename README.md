@@ -1,4 +1,4 @@
-### Hi there 👋
+### Jean-Philippe André 👋
 
 <!--
 **jp-andre/jp-andre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Past open source contributions:
+- VLC media player
+- Enlightenment Foundation Libraries
+- App Center CLI and fastlane plugin
+
+Currently working on:
+- GitHub Actions
