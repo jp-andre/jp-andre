@@ -1,9 +1,12 @@
 ### Jean-Philippe André 👋
 
-#### Currently working on
+#### Previously worked on
 
 <img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" height="48" /><br />
 [GitHub Actions](https://github.com/features/actions)
+
+<img src="https://visualstudio.microsoft.com/wp-content/uploads/2017/10/microsoft-app-center-logo.png" height="48" /><br />
+[App Center](https://appcenter.ms)
 
 #### Main open source contributions
 
@@ -15,4 +18,3 @@
 
 <img src="https://visualstudio.microsoft.com/wp-content/uploads/2017/10/microsoft-app-center-logo.png" height="48" /><br />
 [App Center CLI](https://github.com/microsoft/appcenter-cli) and [fastlane plugin](https://github.com/microsoft/fastlane-plugin-appcenter)
-
