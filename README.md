@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td><![icon-512](https://github.com/user-attachments/assets/97328eaa-6743-4b68-af6d-afb14b620df0)</td>
+    <td><img src="https://github.com/user-attachments/assets/97328eaa-6743-4b68-af6d-afb14b620df0" height="48" /></td>
     <td><a href="https://www.collimator.ai">Collimator</td>
   </tr>
   <tr>
