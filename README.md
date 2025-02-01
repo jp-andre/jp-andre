@@ -1,10 +1,12 @@
 ### Jean-Philippe André 👋
 
-Embarking on a new adventure!
-
 #### Previously worked on
 
 <table>
+  <tr>
+    <td><![icon-512](https://github.com/user-attachments/assets/97328eaa-6743-4b68-af6d-afb14b620df0)</td>
+    <td><a href="https://www.collimator.ai">Collimator</td>
+  </tr>
   <tr>
     <td><img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" height="48" /></td>
     <td><a href="https://github.com/features/actions">GitHub Actions</td>
