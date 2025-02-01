@@ -5,7 +5,10 @@
 <table>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/97328eaa-6743-4b68-af6d-afb14b620df0" height="48" /></td>
-    <td><a href="https://www.collimator.ai">Collimator</td>
+    <td><a href="https://www.collimator.ai">Collimator</a>
+      <br />
+      Open Source: <a href="https://pypi.org/project/pycollimator/">pycollimator</a> (<a href="https://py.collimator.ai">docs</a>, <a href="https://github.com/collimator-ai/pycollimator">source</a>)
+    </td>
   </tr>
   <tr>
     <td><img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" height="48" /></td>
